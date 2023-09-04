@@ -61,8 +61,8 @@ export default function Header() {
           ref={menuRef}
           className={`${
             isMenuOpen ? "flex" : "hidden"
-          } xl:flex flex-col absolute left-0 right-0 top-24 bg-neutral-light/50 dark:bg-secondary-dark/50 p-5 gap-4 backdrop-blur-md drop-shadow-md rounded-xl
-            xl:flex-row xl:static xl:justify-between xl:items-center xl:backdrop-blur-0 xl:bg-transparent xl:dark:bg-transparent xl:drop-shadow-none xl:p-0
+          } xl:flex flex-col absolute left-0 right-0 top-24 bg-neutral-light/50 dark:bg-secondary-dark/50 p-5 gap-4 backdrop-blur-md xl:backdrop-blur-[1] drop-shadow-md rounded-xl
+            xl:flex-row xl:static xl:justify-between xl:items-center xl:bg-transparent xl:dark:bg-transparent xl:drop-shadow-none xl:p-0
           `}
         >
           <Menu

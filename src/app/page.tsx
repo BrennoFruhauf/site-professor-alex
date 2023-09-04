@@ -98,6 +98,7 @@ export default function Home() {
           <a
             className="text-lg md:text-xl text-white bg-primary-light dark:bg-primary-dark py-3 px-5 hover:bg-secondary-light dark:hover:bg-secondary-light rounded-lg"
             href="https://forms.gle/kJGy6r5q6i1caphu6"
+            target="_blank"
           >
             Envie suas Sugestões
           </a>
