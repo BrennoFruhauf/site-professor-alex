@@ -13,46 +13,57 @@ export default function FotosEVideos() {
       <CardFoto
         url="/assets/images/fotos/DSC01276.jpg"
         alt="Professor Alex de terno sorrindo"
+        urlFull="/assets/images/fotos/DSC01276-FULL.jpg"
       />
       <CardFoto
         url="/assets/images/fotos/DSC01279.jpg"
         alt="Professor Alex de terno sério"
+        urlFull="/assets/images/fotos/DSC01279-FULL.jpg"
       />
       <CardFoto
         url="/assets/images/fotos/DSC01283.jpg"
         alt="Professor Alex de terno feliz"
+        urlFull="/assets/images/fotos/DSC01283-FULL.jpg"
       />
       <CardFoto
         url="/assets/images/fotos/DSC01291.jpg"
         alt="Professor Alex de terno em pose séria"
+        urlFull="/assets/images/fotos/DSC01283-FULL.jpg"
       />
       <CardFoto
         url="/assets/images/fotos/DSC01293.jpg"
         alt="Professor Alex de terno em pose séria sorrindo"
+        urlFull="/assets/images/fotos/DSC01283-FULL.jpg"
       />
       <CardFoto
         url="/assets/images/fotos/DSC01301.jpg"
         alt="Professor Alex de blusa azul sorrindo cruzando os braços"
+        urlFull="/assets/images/fotos/DSC01283-FULL.jpg"
       />
       <CardFoto
         url="/assets/images/fotos/DSC01309.jpg"
         alt="Professor Alex de blusa azul sentado e sorrindo"
+        urlFull="/assets/images/fotos/DSC01283-FULL.jpg"
       />
       <CardFoto
         url="/assets/images/fotos/DSC01312.jpg"
         alt="Professor Alex de blusa azul sentado mostrando os polegares"
+        urlFull="/assets/images/fotos/DSC01283-FULL.jpg"
       />
       <CardFoto
         url="/assets/images/fotos/DSC01313.jpg"
         alt="Professor Alex de blusa verde com a mão no peito"
+        urlFull="/assets/images/fotos/DSC01283-FULL.jpg"
       />
       <CardFoto
         url="/assets/images/fotos/DSC01321.jpg"
         alt="Professor Alex de blusa verde fazendo um 'V' com a mão"
+        urlFull="/assets/images/fotos/DSC01283-FULL.jpg"
       />
       <CardFoto
         url="/assets/images/fotos/DSC01325.jpg"
         alt="Professor Alex de blusa verde sentado em um banco"
+        urlFull="/assets/images/fotos/DSC01283-FULL.jpg"
       />
     </div>
   )
